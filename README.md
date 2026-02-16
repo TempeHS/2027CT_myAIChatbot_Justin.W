@@ -1,10 +1,10 @@
-# Project Title
+# Torabot
 
 Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+We are creating an AI Chatbot that is designed to have a conversation with us. This chatbot is made to communicate to the user through learning, and it should be able to ask us questions, along with the ability to answer our questions. 
 
 ## Getting Started
 
@@ -35,7 +35,7 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Justin Wong - https://github.com/Toratoki
 
 ex. Mr Jones
 ex. [@benpaddlejones](https://github.com/benpaddlejones)
@@ -50,7 +50,7 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the GNU GPL v3.0 License - see the LICENSE.md file for details
 
 ## Acknowledgments
 

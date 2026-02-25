@@ -4,24 +4,25 @@ Simple overview of use/purpose.
 
 ## Description
 
-We are creating an AI Chatbot that is designed to have a conversation with us. This chatbot is made to communicate to the user through learning, and it should be able to ask us questions, along with the ability to answer our questions. 
+We are creating an AI Chatbot that is designed to have a conversation with us. This chatbot is made to communicate to the user through learning, and it should be able to ask us questions, along with the ability to answer our questions.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+- Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+- ex. Windows 10
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+- How/where to download your program
+- Any modifications needed to be made to files/folders
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
+- How to run the program
+- Step-by-step bullets
+
 ```
 code blocks for commands
 ```
@@ -29,6 +30,7 @@ code blocks for commands
 ## Help
 
 Any advise for common problems or issues.
+
 ```
 command to run if program contains helper info
 ```
@@ -42,11 +44,11 @@ ex. [@benpaddlejones](https://github.com/benpaddlejones)
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]() or see [branch]()
-* 0.1
-    * Initial Release
+- 0.2
+  - Various bug fixes and optimizations
+  - See [commit change]() or See [release history]() or see [branch]()
+- 0.1
+  - Initial Release
 
 ## License
 
@@ -55,5 +57,24 @@ This project is licensed under the GNU GPL v3.0 License - see the LICENSE.md fil
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* [TempeHS Python Flask template](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer)
+
+- [Github md syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [TempeHS Python Flask template](https://github.com/TempeHS/TempeHS_Python-Flask_DevContainer)
+
+## Testing
+
+### User Acceptance Testing Results
+
+Tested on: [26/2/2026]
+Tester: [Justin W]
+
+| Test ID | Description               | Status  |
+| ------- | ------------------------- | ------- |
+| TC-001  | Normal message response   | ✅ Pass |
+| TC-002  | Empty message handling    | ✅ Pass |
+| TC-003  | Message length validation | ✅ Pass |
+| TC-004  | Crisis keyword detection  | ✅ Pass |
+| TC-005  | Disclaimer visibility     | ✅ Pass |
+| TC-006  | Message styling           | ✅ Pass |
+
+**Summary**: All 6 test cases passed. The chatbot meets all functional and non-functional requirements.
